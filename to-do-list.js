@@ -1,8 +1,8 @@
 const todoList = [{
-  name: 'make dinner',
+  name: 'go for walking',
   dueDate: '2025-05-22'
 }, {
-  name: 'wash dishes',
+  name: 'send the mail',
   dueDate: '2025-05-23'
 }];
 
